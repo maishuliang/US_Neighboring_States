@@ -6,3 +6,6 @@ Contains Python dictionary of the list of all adjacent states of each state of U
 
 * check if 2 states are neighbors
   * if_neighboring_states(state1, state2)
+
+* check if 2 states are neighbors' neighbor
+ * if_neighboring_neighbors(state1, state2)
